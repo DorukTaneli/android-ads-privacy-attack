@@ -1,0 +1,121 @@
+D/EGL_emulation( 1963): eglMakeCurrent: 0x7f06aa950200: ver 3 0 (tinfo 0x7f06aa90fe00)
+I/*       ( 4622): ************************ HELLO MALVERTISING ************************
+D/EGL_emulation( 1963): eglMakeCurrent: 0x7f06aa950200: ver 3 0 (tinfo 0x7f06aa90fe00)
+I/*       ( 4622): ************************ LOCATION ************************
+I/LOCATION: ( 4622): 2020/11/24 19:10:07;longitude:-0.11809166666666666;latitude:51.509863333333335
+I/*       ( 4622): ************************ IMEI ************************
+I/IMEI:   ( 4622): 2020/11/24 19:10:07;IMEI:358240051111110
+D/EGL_emulation( 1963): eglMakeCurrent: 0x7f06aa950200: ver 3 0 (tinfo 0x7f06aa90fe00)
+I/*       ( 4622): ************************ IP Address ************************
+I/IP ADDRESS: ( 4622): fe80::5054:ff:fe12:3456%eth0
+I/System.out( 4622): count: 20
+I/*       ( 4622): ************************ CALENDAR EVENTS ************************
+I/CALENDAR EVENTS: ( 4622): [Event1: 
+I/CALENDAR EVENTS: ( 4622): Title: Meeting with Anna
+I/CALENDAR EVENTS: ( 4622): Description: 
+I/CALENDAR EVENTS: ( 4622): Start Date: Sat Nov 21 19:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): End Date : Sat Nov 21 20:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): Location : , Event1: 
+I/CALENDAR EVENTS: ( 4622): Title: DocSoc meeting
+I/CALENDAR EVENTS: ( 4622): Description: 
+I/CALENDAR EVENTS: ( 4622): Start Date: Sun Nov 22 22:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): End Date : Sun Nov 22 23:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): Location : , Event1: 
+I/CALENDAR EVENTS: ( 4622): Title: Course Introduction
+I/CALENDAR EVENTS: ( 4622): Description: 
+I/CALENDAR EVENTS: ( 4622): Start Date: Mon Nov 23 16:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): End Date : Mon Nov 23 17:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): Location : , Event2: 
+I/CALENDAR EVENTS: ( 4622): Title: Guy Fawkes Day
+I/CALENDAR EVENTS: ( 4622): Description: 
+I/CALENDAR EVENTS: ( 4622): Start Date: Thu Nov 05 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): End Date : Fri Nov 06 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): Location : , Event2: 
+I/CALENDAR EVENTS: ( 4622): Title: Remembrance Sunday
+I/CALENDAR EVENTS: ( 4622): Description: 
+I/CALENDAR EVENTS: ( 4622): Start Date: Sun Nov 08 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): End Date : Mon Nov 09 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): Location : , Event2: 
+I/CALENDAR EVENTS: ( 4622): Title: Christmas Day
+I/CALENDAR EVENTS: ( 4622): Description: 
+I/CALENDAR EVENTS: ( 4622): Start Date: Fri Dec 25 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): End Date : Sat Dec 26 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): Location : , Event2: 
+I/CALENDAR EVENTS: ( 4622): Title: Boxing Day
+I/CALENDAR EVENTS: ( 4622): Description: 
+I/CALENDAR EVENTS: ( 4622): Start Date: Sat Dec 26 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): End Date : Sun Dec 27 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): Location : , Event2: 
+I/CALENDAR EVENTS: ( 4622): Title: Substitute Bank Holiday for Boxing Day
+I/CALENDAR EVENTS: ( 4622): Description: 
+I/CALENDAR EVENTS: ( 4622): Start Date: Mon Dec 28 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): End Date : Tue Dec 29 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): Location : , Event2: 
+I/CALENDAR EVENTS: ( 4622): Title: New Year's Day
+I/CALENDAR EVENTS: ( 4622): Description: 
+I/CALENDAR EVENTS: ( 4622): Start Date: Fri Jan 01 00:00:00 GMT+00:00 2021
+I/CALENDAR EVENTS: ( 4622): End Date : Sat Jan 02 00:00:00 GMT+00:00 2021
+I/CALENDAR EVENTS: ( 4622): Location : , Event2: 
+I/CALENDAR EVENTS: ( 4622): Title: St Andrew's Day (Scotland)
+I/CALENDAR EVENTS: ( 4622): Description: Holiday or observance in: Scotland
+I/CALENDAR EVENTS: ( 4622): Start Date: Mon Nov 30 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): End Date : Tue Dec 01 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): Location : , Event2: 
+I/CALENDAR EVENTS: ( 4622): Title: 2nd January (substitute day) (Scotland)
+I/CALENDAR EVENTS: ( 4622): Description: Holiday or observance in: Scotland
+I/CALENDAR EVENTS: ( 4622): Start Date: Mon Jan 04 00:00:00 GMT+00:00 2021
+I/CALENDAR EVENTS: ( 4622): End Date : Tue Jan 05 00:00:00 GMT+00:00 2021
+I/CALENDAR EVENTS: ( 4622): Location : , Event3: 
+I/CALENDAR EVENTS: ( 4622): Title: Veterans Day
+I/CALENDAR EVENTS: ( 4622): Description: 
+I/CALENDAR EVENTS: ( 4622): Start Date: Wed Nov 11 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): End Date : Thu Nov 12 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): Location : , Event3: 
+I/CALENDAR EVENTS: ( 4622): Title: Thanksgiving Day
+I/CALENDAR EVENTS: ( 4622): Description: 
+I/CALENDAR EVENTS: ( 4622): Start Date: Thu Nov 26 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): End Date : Fri Nov 27 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): Location : , Event3: 
+I/CALENDAR EVENTS: ( 4622): Title: Christmas Eve
+I/CALENDAR EVENTS: ( 4622): Description: 
+I/CALENDAR EVENTS: ( 4622): Start Date: Thu Dec 24 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): End Date : Fri Dec 25 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): Location : , Event3: 
+I/CALENDAR EVENTS: ( 4622): Title: Christmas Day
+I/CALENDAR EVENTS: ( 4622): Description: 
+I/CALENDAR EVENTS: ( 4622): Start Date: Fri Dec 25 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): End Date : Sat Dec 26 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): Location : , Event3: 
+I/CALENDAR EVENTS: ( 4622): Title: New Year's Eve
+I/CALENDAR EVENTS: ( 4622): Description: 
+I/CALENDAR EVENTS: ( 4622): Start Date: Thu Dec 31 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): End Date : Fri Jan 01 00:00:00 GMT+00:00 2021
+I/CALENDAR EVENTS: ( 4622): Location : , Event3: 
+I/CALENDAR EVENTS: ( 4622): Title: New Year's Day
+I/CALENDAR EVENTS: ( 4622): Description: 
+I/CALENDAR EVENTS: ( 4622): Start Date: Fri Jan 01 00:00:00 GMT+00:00 2021
+I/CALENDAR EVENTS: ( 4622): End Date : Sat Jan 02 00:00:00 GMT+00:00 2021
+I/CALENDAR EVENTS: ( 4622): Location : , Event3: 
+I/CALENDAR EVENTS: ( 4622): Title: Martin Luther King Jr. Day
+I/CALENDAR EVENTS: ( 4622): Description: 
+I/CALENDAR EVENTS: ( 4622): Start Date: Mon Jan 18 00:00:00 GMT+00:00 2021
+I/CALENDAR EVENTS: ( 4622): End Date : Tue Jan 19 00:00:00 GMT+00:00 2021
+I/CALENDAR EVENTS: ( 4622): Location : , Event3: 
+I/CALENDAR EVENTS: ( 4622): Title: Native American Heritage Day
+I/CALENDAR EVENTS: ( 4622): Description: 
+I/CALENDAR EVENTS: ( 4622): Start Date: Fri Nov 27 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): End Date : Sat Nov 28 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): Location : , Event3: 
+I/CALENDAR EVENTS: ( 4622): Title: Election Day (General Elections)
+I/CALENDAR EVENTS: ( 4622): Description: Go to Google Search to learn more about <a href="https://www.google.com/search?q=how+do+i+vote+%23election2020">how to vote</a>.
+I/CALENDAR EVENTS: ( 4622): Start Date: Tue Nov 03 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): End Date : Wed Nov 04 00:00:00 GMT+00:00 2020
+I/CALENDAR EVENTS: ( 4622): Location : ]
+I/*       ( 4622): ************************ CALL LOGS ************************
+I/CALL LOGS: ( 4622): [Name: Stacy Barram, Number: 07736529832 Type: 2 Time: 1606244547584, Name: John Adam, Number: 07768543927 Type: 2 Time: 1606244987198]
+D/OpenGLRenderer( 4622): Render dirty regions requested: true
+D/        ( 4622): HostConnection::get() New Host Connection established 0x7f06b2255c80, tid 4622
+D/Atlas   ( 4622): Validating map...
+I/*       ( 4622): ************************ Advertising ID ************************
+I/Advertising ID: ( 4622): 2020/11/24 19:10:07;advertising_id:61d8ab53-5cd0-4120-a6b5-d1b7711bdf78
+D/        ( 4622): HostConnection::get() New Host Connection established 0x7f06b22556d0, tid 4650
